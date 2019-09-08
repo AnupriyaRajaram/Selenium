@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81647" started-at="2019-09-08T12:01:33Z" finished-at="2019-09-08T12:02:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81647" started-at="2019-09-08T12:01:33Z" finished-at="2019-09-08T12:02:55Z">
+      <class name="org.testleaf.leaftaps.testcases.TC001_LoginLogout">
+        <test-method status="PASS" signature="startApp()[pri:0, instance:org.testleaf.leaftaps.testcases.TC001_LoginLogout@1fa3a9d]" name="startApp" is-config="true" duration-ms="7989" started-at="2019-09-08T12:01:33Z" finished-at="2019-09-08T12:01:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method status="PASS" signature="runTC001()[pri:0, instance:org.testleaf.leaftaps.testcases.TC001_LoginLogout@1fa3a9d]" name="runTC001" duration-ms="71536" started-at="2019-09-08T12:01:41Z" finished-at="2019-09-08T12:02:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTC001 -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:org.testleaf.leaftaps.testcases.TC001_LoginLogout@1fa3a9d]" name="closeApp" is-config="true" duration-ms="2094" started-at="2019-09-08T12:02:53Z" finished-at="2019-09-08T12:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- org.testleaf.leaftaps.testcases.TC001_LoginLogout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
